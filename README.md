@@ -22,7 +22,7 @@ Pour la transcription automatique, il existe plusieurs outils en ligne, mais not
 * [Script python pour la stylométrie](stylometrie.py). Le script calcule la proximité entre les textes au format .txt d'un dossier selon 5 distances utilisées en stylométrie. Les paramètres à modifier figurent au début du script.
 
 # Citer ce dépôt
-Élodie Paupe, _Passio Sancti Germani Grandivallensis. Édition numérique et analyses computationnelles, Lyon, avril 2026_, Neuchâtel: Université de Neuchâtel, 2026, https://github.com/elodiepaupe/PassioSanctiGermaniGrandivallensis_Lyon_avril2026.
+Élodie Paupe, _Passio Sancti Germani Grandivallensis. Édition numérique et analyses computationnelles_, Neuchâtel: Université de Neuchâtel, 2026, https://github.com/elodiepaupe/PassioSanctiGermaniGrandivallensis_Lyon_avril2026.
 
 # Licence
 Licence Creative Commons
