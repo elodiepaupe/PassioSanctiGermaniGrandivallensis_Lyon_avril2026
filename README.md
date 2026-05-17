@@ -1,4 +1,4 @@
-# PassioSanctiGermaniGrandivallensis_Lyon_avril2026
+# Passio Sancti Germani Grandivallensis. Édition numérique et analyses computationnelles, Lyon, avril 2026
 Documents relatifs à la présentation donnée le 29 avril 2026
 
 ## Introduction au XML-TEI
@@ -20,3 +20,10 @@ Pour la transcription automatique, il existe plusieurs outils en ligne, mais not
     * l.25 seuil_similiarité (calcul selon la similarité de jaccard), une bonne valeur pour commencer: 0.03
     * l.26 nb_paires_max: le script se concentre sur les meilleures paires
 * [Script python pour la stylométrie](stylometrie.py). Le script calcule la proximité entre les textes au format .txt d'un dossier selon 5 distances utilisées en stylométrie. Les paramètres à modifier figurent au début du script.
+
+# Citer ce dépôt
+Élodie Paupe, _Passio Sancti Germani Grandivallensis. Édition numérique et analyses computationnelles, Lyon, avril 2026_, Neuchâtel: Université de Neuchâtel, 2026, https://github.com/elodiepaupe/PassioSanctiGermaniGrandivallensis_Lyon_avril2026.
+
+# Licence
+Licence Creative Commons
+This work is licensed under a Creative Commons Attribution 4.0 International Licence.
